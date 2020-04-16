@@ -1,2 +1,2 @@
-# Sentence_Classification
+# Sentence Classification
 A simple project on sentence classfication i've done during my spare time
