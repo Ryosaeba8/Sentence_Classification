@@ -42,7 +42,6 @@ I've plot a TSNE representation of the headlines a on a subset of the dataset al
 <p align="center">
   <img src="img/tsne.png">
 </p>
-
 	* Culture and Opinion appears to be the class the most difficult to classify
 ### Saliency Map
 
@@ -50,7 +49,5 @@ I've plot a TSNE representation of the headlines a on a subset of the dataset al
   <img src="img/saliency.png">
 </p>
 At top Bert, followed by CNN and at bottom LSTM
-
 	* For two sentences of the class Business, i compute the saliency map related to the learned embeddings for the models. 
-	
 	* Meanwhile BERT & CNN methods tend to capture the set of words that are the most discriminants for classifying the sentences, the LSTM approach learns embeddings which gradient are important for the classification regardless the words.
