@@ -51,5 +51,5 @@ I've plot a TSNE representation of the headlines a on a subset of the dataset al
 </p>
 
 
-* For two sentences of the class Business, i compute the saliency map related to the learned embeddings for the models. At top Bert, followed by CNN and at bottom LSTM
-* Meanwhile BERT & CNN methods tend to capture the set of words that are the most discriminants for classifying the sentences, the LSTM approach learns embeddings which gradient are important for the classification regardless the words.
+	* For two sentences of the class Business, i compute the saliency map related to the learned embeddings for the models. At top Bert, followed by CNN and at bottom LSTM
+	* Meanwhile BERT & CNN methods tend to capture the set of words that are the most discriminants for classifying the sentences, the LSTM approach learns embeddings which gradient are important for the classification regardless the words.
